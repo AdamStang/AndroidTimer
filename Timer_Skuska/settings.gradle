@@ -1,0 +1,2 @@
+rootProject.name='Timer_Skuska'
+include ':app'
